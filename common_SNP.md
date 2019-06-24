@@ -11,3 +11,6 @@
 *non-synonymous variants annotation*
 
     'SIFT_pred','Polyphen2_HDIV_pred','CADD_phred','FATHMM_pred','MutationAssessor_pred'
+    
+
+Sukhai M A, Misyura M, Thomas M, et al. Somatic Tumor Variant Filtration Strategies to Optimize Tumor-Only Molecular Profiling Using Targeted Next-Generation Sequencing Panels[J]. The Journal of Molecular Diagnostics, 2019, 21(2): 261-273.
