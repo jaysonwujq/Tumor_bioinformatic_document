@@ -7,4 +7,4 @@
     You could find this info from CosmicCodingMuts.vcf(Download from COSMIC).
     ##INFO=<ID=CNT,Number=1,Type=Integer,Description="How many samples have this mutation">
 
-Sukhai M A, Misyura M, Thomas M, et al. Somatic Tumor Variant Filtration Strategies to Optimize Tumor-Only Molecular Profiling Using Targeted Next-Generation Sequencing Panels[J]. The Journal of Molecular Diagnostics, 2019, 21(2): 261-273. 
+    Sukhai M A, Misyura M, Thomas M, et al. Somatic Tumor Variant Filtration Strategies to Optimize Tumor-Only Molecular Profiling Using Targeted Next-Generation Sequencing Panels[J]. The Journal of Molecular Diagnostics, 2019, 21(2): 261-273. 
