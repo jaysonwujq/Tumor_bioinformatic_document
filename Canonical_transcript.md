@@ -11,3 +11,7 @@
     5444 gene not found appris_principal_1
 
 3. use snpeff could get only one Canonical transcript
+
+
+Technical laboratory standards for interpretation and reporting of acquired copy-number abnormalities and copy neutral loss of heterozygosity in neoplastic disorders: a joint consensus recommendation from the American College of Medical Genetics and Genomics (ACMG) and the Cancer Genomics Consortium (CGC)
+
