@@ -7,3 +7,8 @@
 # FoundationOne
 
     Chalmers Z R, Connelly C F, Fabrizio D, et al. Analysis of 100,000 human cancer genomes reveals the landscape of tumor mutational burden[J]. Genome medicine, 2017, 9(1): 34.
+    FDA. FoundationOne CDx: Summary of Safety and Effectiveness Data (SSED)(https://www.accessdata.fda.gov/cdrh_docs/pdf17/P170019B.pdf)
+
+
+
+    
