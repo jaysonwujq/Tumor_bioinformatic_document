@@ -1,6 +1,6 @@
 # Canonical_transcript
 
-1. https://ionreporter.thermofisher.com/ionreporter/help/GUID-A5502535-2C81-46FD-93C2-50FCB1F02CFD.html]
+1. https://ionreporter.thermofisher.com/ionreporter/help/GUID-A5502535-2C81-46FD-93C2-50FCB1F02CFD.html
 
 2. protein-coding gene:
     
