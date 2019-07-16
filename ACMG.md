@@ -22,7 +22,7 @@
 
         Mikhail F M, Biegel J A, Cooley L D, et al. Technical laboratory standards for interpretation and reporting of acquired copy-number abnormalities and copy-neutral loss of heterozygosity in neoplastic disorders: a joint consensus recommendation from the American College of Medical Genetics and Genomics (ACMG) and the Cancer Genomics Consortium (CGC)[J]. Genetics in Medicine, 2019: 1.
 
-此外生物信息过程可以参考的一些很棒的文献在文末也推荐给大家：
+6.  此外生物信息过程可以参考的一些很棒的文献在文末也推荐给大家：
 
         Sallevelt S C E H, De Koning B, Szklarczyk R, et al. A comprehensive strategy for exome-based preconception carrier screening[J]. Genetics in Medicine, 2017, 19(5): 583.
 
