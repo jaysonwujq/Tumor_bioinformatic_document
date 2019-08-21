@@ -37,6 +37,7 @@ def run(ID):
         ret = res.text
         soup = BeautifulSoup(ret, 'html.parser')
         result=soup.find('h2',class_='usa-color-text usa-color-text-white blue-box').text.strip()
+        print(result)
         outfile=open("knownCanonical.tsv",'a+')
         outfile.write("%s\t%s\n"%(ID,result))
         outfile.close()
