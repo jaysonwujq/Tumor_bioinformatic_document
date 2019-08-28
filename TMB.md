@@ -35,6 +35,38 @@ a.
     
     对该指标对解释说明可以参见：https://twistbioscience.com/sites/default/files/resources/2018-10/Twist_NGS_WhitePaper_UniformityonTarget_18Sep18.pdf
 
+b.
+
+    关于panel测序数据质控的代码：https://github.com/fanyucai1/sample_qc/blob/master/sample_qc.py
+    
+    使用说明：
+    sample_qc.py
+
+    This script will given a metrix of bam file stat.
+
+    Usage:python3 sample_qc.py target_bed probe_bed bamfile outdir prefix
+
+    target_bed and probe_be maybe a same file
+
+    the bamfile must remove or mark PCR duplicates
+
+    Email:fanyucai1@126.com
+    输出示例：
+    The result output as follows::
+
+    Counts-On-Target_Reads	626001
+    mean_depth	303.485387
+    median_depth	287
+    FOLD_80_BASE_PENALTY	2.009837
+    %_bases_above_1	98.6
+    %_bases_above_5	97.3
+    %_bases_above_10	96.9
+    %_bases_above_50	93.6
+    %_bases_above_100	88.3
+    %_bases_above_250	58.6
+    %_bases_above_500	14.2
+    %_bases_above_1000	14.2
+    %_bases_above_10000	14.2
 
 
 ##  参考文献
